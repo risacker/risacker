@@ -1,4 +1,4 @@
-### Hi I'm Rishika Swaraj<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi! I'm Rishika Swaraj<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🔭 I’m currently working on Flutter and Native development🙃.
 - 🌱 I’m currently learning Javascript💖.
 - 👯 I’m looking to collaborate on  Flutter and Android Projects🙂.
