@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Twitter: @RishikaSwaraj](https://twitter.com/RishikaSwaraj?s=09) , [Linkedin: Rishika Swaraj](https://www.linkedin.com/in/rishika-swaraj-0755561a2) , [TryHackMe: RishikaSwaraj](https://tryhackme.com/p/RishikaSwaraj)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Kali Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
