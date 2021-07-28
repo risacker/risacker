@@ -4,6 +4,10 @@
 - 👯 I’m looking to collaborate on  Flutter and Android Projects🙂.
 - 💬 Ask me about Flutter,Cybersecurity or any tech related stuffs😇.
 - 📫 How to reach me: [Twitter: @RishikaSwaraj](https://twitter.com/RishikaSwaraj?s=09) , [Linkedin: Rishika Swaraj](https://www.linkedin.com/in/rishika-swaraj-0755561a2) , [TryHackMe: RishikaSwaraj](https://tryhackme.com/p/RishikaSwaraj)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Rishika Swaraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=risacker&&theme=react-dark&hide_border=true&area=true)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
