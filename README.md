@@ -25,6 +25,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risacker&theme=dark&hide_border=true")](https://git.io/streak-stats)
 
+![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=risacker.risacker)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; GitHub Stats
