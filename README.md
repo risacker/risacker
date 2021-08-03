@@ -38,4 +38,4 @@
 <a href="https://github.com/risacker/risacker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risacker&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
-<alt="TryHackMe"img src="https://tryhackme-badges.s3.amazonaws.com/RishikaSwaraj.png" />
+
