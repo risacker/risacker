@@ -12,7 +12,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Rishika Swaraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=risacker&&theme=react-dark&hide_border=true&area=true)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -38,3 +38,4 @@
 <a href="https://github.com/risacker/risacker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risacker&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
+<alt="TryHackMe"img src="https://tryhackme-badges.s3.amazonaws.com/RishikaSwaraj.png" />
