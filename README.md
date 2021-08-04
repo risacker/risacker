@@ -10,7 +10,8 @@
 [![TryHackMe Badge](https://img.shields.io/badge/-RishikaSwaraj-brown?style=flat-square&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/RishikaSwaraj)](https://tryhackme.com/p/RishikaSwaraj)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Rishika Swaraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=risacker&&theme=react-dark&hide_border=true&area=true)
+
+![Rishika Swaraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=risacker&theme=react-dark&hide_border=true&area=true)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 Technologies & Tools
