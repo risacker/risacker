@@ -1,11 +1,11 @@
 ### Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Rishika Swaraj
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 
-- 🔭 I’m currently working on Flutter and Native development🙃.
-- 🌱 I’m currently learning Javascript and Kotlin💖.
-- 👯 I’m looking to collaborate on Flutter,Android and Open Source Projects🙂.
-- 💬 Ask me about Flutter,Cybersecurity,Android or any tech related stuffs😇.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RishikaSwaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishika-swaraj-0755561a2/)](https://www.linkedin.com/in/rishika-swaraj-0755561a2/)
+- 🔭  I’m currently working on Flutter and Native development🙃.
+- 🌱  I’m currently learning Javascript and Kotlin💖.
+- 👯  I’m looking to collaborate on Flutter,Android and Open Source Projects🙂.
+- 💬  Ask me about Flutter,Cybersecurity,Android or any tech related stuffs😇.
+- 📫  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-RishikaSwaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishika-swaraj-0755561a2/)](https://www.linkedin.com/in/rishika-swaraj-0755561a2/)
 [![Gmail Badge](https://img.shields.io/badge/-rishikaswaraj237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishikaswaraj237@gmail.com)](mailto:rishikaswaraj237@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@RishikaSwaraj-royalblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RishikaSwaraj?s=09)](https://twitter.com/RishikaSwaraj?s=09)
 [![TryHackMe Badge](https://img.shields.io/badge/-RishikaSwaraj-brown?style=flat-square&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/RishikaSwaraj)](https://tryhackme.com/p/RishikaSwaraj)
