@@ -18,6 +18,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
