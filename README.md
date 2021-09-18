@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Metasploitable2-informational?style=flat&logo=Metasploitable2&logoColor=white&color=2bbc8a)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔥 Streak Stats
 
