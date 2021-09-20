@@ -16,7 +16,7 @@
 ![Rishika Swaraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=risacker&theme=react-dark&hide_border=true&area=true)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies 
 ![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
