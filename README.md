@@ -1,6 +1,6 @@
 ### Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rishika Swaraj
 
-<img src="https://telegra.ph/file/196e561da24598e84cde4.gif" align="right">
+<img src="https://telegra.ph/file/5b8f88ae51e6dc1d72476.gif" align="right">
 
 - 🔭  I’m currently working on Flutter and Native development🙃.
 - 🌱  I’m currently learning Flutter,Javascript and Kotlin💖.
