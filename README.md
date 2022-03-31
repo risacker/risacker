@@ -3,7 +3,7 @@
 <img src="https://telegra.ph/file/4c4ae38d51e2bb289b87f.gif" align="right">
 
 - 🔭  I’m currently working on Flutter and Web development🙃.
-- 🌱  I’m currently learning Flutter,Node.js and Kotlin💖.
+- 🌱  I’m currently learning DSA💖.
 - 👯  I’m looking to collaborate on Flutter,Android and Open Source Projects🙂.
 - 💬  Ask me about Flutter,Cybersecurity,Android or any tech related stuffs😇.
 - 📫  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-RishikaSwaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishika-swaraj-0755561a2/)](https://www.linkedin.com/in/rishika-swaraj-0755561a2/)
