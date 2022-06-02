@@ -1,4 +1,4 @@
-### Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rishika Swaraj
+### Hi!👋 , I'm Rishika Swaraj
 
 <img src="https://telegra.ph/file/4c4ae38d51e2bb289b87f.gif" align="right">
 
